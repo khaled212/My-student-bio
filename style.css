@@ -1,0 +1,47 @@
+{
+  box-sizing: 20%;
+  text-align: top left;
+}
+button {
+    border-bottom: 5px solid black;
+    font-size: 10%;
+    padding: 1px;
+    width: absolute;
+    height: absolute;
+    color: white;
+    text-align: center;
+    margin-left: right ;
+    background-image:url("Brown-brick-wall.jpg")  ;
+    background-repeat: absolute;
+}
+img{
+    margin-left: right center;
+    width: 30%;
+    height: 40%;
+
+}
+body{
+  background-image: url("Brown-brick-wall.jpg");
+  background-repeat: absolute;
+  height: absolute;
+  width: absolute;
+  position: absolute;
+  top: absolute;
+  left:absolute ;
+  color: white;
+  max-width:absolute;
+  height: absolute;
+  border: 1px;
+}
+div {
+h2 
+  padding: 5px;
+  margin-bottom: 3px;
+  color: white;
+  float: top right;
+}
+.section{ 
+  text-align: center;
+ 
+  
+}
