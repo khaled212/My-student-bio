@@ -4,26 +4,19 @@
 }
 button {
     border-bottom: 5px solid black;
-    font-size: 10%;
+    font-size: 18px;
     padding: 1px;
-    width: absolute;
-    height: absolute;
     color: white;
     text-align: center;
-    margin-left: right ;
-    background-image:url("Brown-brick-wall.jpg")  ;
-    background-repeat: absolute;
+    margin-left: right;
 }
+
 img{
     margin-left: right center;
-    width: 30%;
-    height: 40%;
-
-}
+    }
 body{
   background-image: url("Brown-brick-wall.jpg");
-  background-repeat: absolute;
-  height: absolute;
+  height: auto;
   width: absolute;
   position: absolute;
   top: absolute;
@@ -31,7 +24,6 @@ body{
   color: white;
   max-width:absolute;
   height: absolute;
-  border: 1px;
 }
 div {
 h2 
@@ -42,6 +34,4 @@ h2
 }
 .section{ 
   text-align: center;
- 
-  
-}
+ }
