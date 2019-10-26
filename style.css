@@ -1,37 +1,41 @@
-{
-  box-sizing: 20%;
-  text-align: top left;
-}
-button {
-    border-bottom: 5px solid black;
-    font-size: 18px;
-    padding: 1px;
-    color: white;
-    text-align: center;
-    margin-left: right;
-}
-
-img{
-    margin-left: right center;
-    }
 body{
   background-image: url("Brown-brick-wall.jpg");
-  height: auto;
-  width: absolute;
-  position: absolute;
-  top: absolute;
-  left:absolute ;
   color: white;
-  max-width:absolute;
-  height: absolute;
+  background-repeat:no-repeat;
+  background-size:cover;
 }
-div {
-h2 
-  padding: 5px;
-  margin-bottom: 3px;
-  color: white;
-  float: top right;
-}
-.section{ 
+.btn{
+  display: inline-block;
+  padding: 15px 15px;
+  font-size: 14px;
+  cursor: pointer;
   text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 9px #999;
+}
+.bio_contaner {
+  overflow: auto;
+  clear: both;
+}
+ .my_bio {
+   font-style: oblique;
+   height: 25px;
  }
+.footer_container{
+  bottom: 10px;
+  position: fixed;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.bio_img {
+  float:left;
+}
+.bio {
+  font-style: oblique;
+}
